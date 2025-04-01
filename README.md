@@ -4,5 +4,5 @@
 - Creator of [Java Speck Links](https://github.com/JavaProgrammerLB/java-document)(For Learn Java New Version Feature)
 
 ### MCP
-- [contributors](https://github.com/smithery-ai/cli/graphs/contributors) of [smithery-ai cli](https://www.npmjs.com/package/@smithery/cli)
+- [contributor](https://github.com/smithery-ai/cli/graphs/contributors) of [smithery-ai cli](https://www.npmjs.com/package/@smithery/cli)
 - Create of [Java Version Unsplash MCP Server](https://github.com/JavaProgrammerLB/unsplash-mcp-server)(For (1)Fetch images from unsplash (2)Learn to write MCP Server in Java )
