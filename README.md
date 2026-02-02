@@ -1,1 +1,1 @@
-- [https://kuzi.ai](https://kuzi.ai):blog list
+- [https://kuzi.ai](https://kuzi.ai):A website list funny blog‘s author
